@@ -1,0 +1,34 @@
+🎨 Pixel Art Workflow (Libresprite), Dont have too many shades(not more than 3), Can use references, pinterest
+
+Palette:
+- Visit https://www.pixilart.com/palettes or https://lospec.com/palette-list
+- Save any palette as PNG
+- Load it in Libresprite
+- Remember: use 3 shades per colour (shadow, base, highlight)
+
+Outline:
+- Draw a square box and trim, or draw outlines(Literally!)
+- Enable "Pixel Perfect" in the pencil tool to remove doubles/jagged edges
+- Reference existing sprites for smoother outlines
+- Remove jaggedness?, look at ./Removing_Jagginess.png
+- After all the shading and highlight is done, change the color of outline, black isnt compulsory
+- Only the mobile object needs a outline, as we want it to stand out compared to ground
+
+Fill:
+- Fill the shape with your chosen base colour
+
+Shading:
+- Add shadow (darker than base) and highlight (lighter than base)
+- Avoid pillow shading unless stylistically intended
+- Fix a single light source for the entire game and stay consistent
+- Add dithering, look at ./dithering.png
+- Add Anti-aliasing, look at ./Anti-aliasing.png
+
+Art Styling:
+- Based on the lightning, adjust the outline so that the areas facing the light appear lighter, while the areas away from the light become darker
+
+Tips:
+- Shadows = darker tone of base
+- Highlights = brightest tone of base
+- Consistency in light direction keeps sprites believable
+- continously, zoom in or out in preview window
