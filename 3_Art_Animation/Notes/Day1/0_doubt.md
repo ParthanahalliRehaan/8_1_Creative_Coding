@@ -34,4 +34,3 @@ In **Godot**, the setting **Rendering → Textures → Default Texture Nearest**
 - If you want smoother visuals, you’d switch to **Linear** filtering instead.  
 
 👉 In short: it forces all textures without explicit filtering settings to use **nearest-neighbor sampling** for a crisp, blocky look.
-# D5, In aseprite whats this contiguos layer thing, and what else am i missing?
