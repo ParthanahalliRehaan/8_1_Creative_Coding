@@ -1,15 +1,30 @@
-0. How to make animation/music in Aseprite/LMMS and use it in GoDot?
+0. How to make art/music in Aseprite/LMMS and use it in GoDot?
     Pixel art in Aseprite: https://www.youtube.com/watch?v=tFsETEP01k8 & https://www.youtube.com/watch?v=hISJ2uflVCg 
     Music in LMMS: https://www.youtube.com/watch?v=2jLeuviQ7Ho
-    Animation in GoDot: https://www.youtube.com/watch?v=XbDh2GAshBA
 
 Tasks order of execution:
-1. Add the remaining features from GDD.
-2. - **Eagle kills snake!**  
-   - **Sliding mechanism**
+1. Add the remaining features from GDD (Per dawn >= 1 feature is the goal)
+   - **Eagle kills snake!**  
+   - **Sliding mechanism** ✅ **Implemented**
    - **Give/Take**
-   - **Gunned Snake**
+   - **Update saharan viper to be gunned**
    - **Died/Ghost (Look into enhanced-overview.md for more know-abouts)**  
    - **NPCs selling pure water**
-3. Make a list.txt with all things to make (Just characters/Props but not UI/tiles as this will be made in LevelDesign/UIUX ) ( And music too)
-4. Make animation for each stuff made in GoDot & Implement Music made.
+2. Make a list.txt with all things to make (Just characters/Props but not UI/tiles as this will be made in LevelDesign/UIUX ) ( And music too) (Per dawn >= 1 feature is the goal)
+| Asset                      | Type      | Size    | Frames needed                                           | Status  |
+| ---------------------------| ----------| --------| --------------------------------------------------------| --------|
+| Ostrich                    | Character | 32×32   | idle 2, walk 4, jump 1, plunge 2, kick 3, hallucinate 2 | pending |
+| Eagle                      | Predator  | 32×32   | move 4                                                  | pending |
+| NPC                        | Character | 32×32   | Still (bobbing 2 frames)                                | pending |
+| RattleSnake                | Enemy     | 32×32   | move 4                                                  | pending |
+| SaharanViperGunned         | Enemy     | 32×32   | move 4                                                  | pending |
+| Health/water icon          | UI/Shared | 16×16   | 1                                                       | pending |
+| Start/Pause/GameOver Menu  | UI/Menu   | 640x320 | 1                                                       | pending |
+| Background(Volcano/Desert) | UI        | 640x320 | 2(One for menus, one for game)                          | pending |
+
+- NPC ✅ **Implemented**
+
+- Music Pending! (Will be done after Finishing all the features & Art)
+
+3. Make animation for each stuff made in GoDot & Implement Music made.
+-     Animation in GoDot: https://www.youtube.com/watch?v=XbDh2GAshBA
