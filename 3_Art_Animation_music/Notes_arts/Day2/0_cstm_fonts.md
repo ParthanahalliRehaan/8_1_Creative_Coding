@@ -73,7 +73,9 @@ So: state images belong in the Theme, and motion belongs in a Tween or `Animatio
 
 ## Tip
 
-Your "START!" is a plain `Button` with a `Text` value, which is the right choice. Use `RichTextLabel` only where you need BBCode like color or wave effects. A plain `Label` is lighter for titles.
+Your "START!" is a plain `Button` with a `Text` value, which is the right choice. Use `RichTextLabel` only where you nee
+Get fonts from https://www.1001fonts.com/
+d BBCode like color or wave effects. A plain `Label` is lighter for titles.
 
 ## Mentor's reminder
 
