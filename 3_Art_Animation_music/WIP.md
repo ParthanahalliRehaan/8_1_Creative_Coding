@@ -4,11 +4,11 @@
 
 Tasks order of execution:
 1. Add the remaining features from GDD (Per dawn >= 1 feature is the goal)
-   - **Eagle kills snake!**  
+   - **Eagle kills snake!** ✅ **Implemented**
    - **Sliding mechanism** ✅ **Implemented**
    - **Bagpack orb give to friend/take from NPC** ✅ **Implemented** 
-   - **Update saharan viper to be gunned**
-   - **Died/Ghost (Look into enhanced-overview.md for more know-abouts)**  
+   - **Update saharan viper to be gunned** ✅ **Implemented**
+   - **Died/Ghost (Look into enhanced-overview.md for more know-abouts)** ✅ **Implemented**
    - **NPCs selling pure water** ✅ **Implemented**
 2. Make a list.txt with all things to make (Just characters/Props but not UI/tiles as this will be made in LevelDesign/UIUX ) ( And music too) (Per dawn >= 1 feature is the goal)
 ## Current features art!
