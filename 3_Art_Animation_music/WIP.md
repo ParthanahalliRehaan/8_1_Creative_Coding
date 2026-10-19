@@ -21,12 +21,14 @@ Tasks order of execution:
 | RattleSnake                | Enemy     | 32×32   | move 4                                                  | pending |
 | SaharanViperGunned         | Enemy     | 32×32   | move 4                                                  | pending |
 | Cactus/flowering cactus    | Prop      | 32×32   | 1(each)                                                 | pending |
-| Sand tile                  | Tile      | 16×16   | 1 (+2 variants)                                         | pending |
-| Sand edge/dune tiles       | Tile      | 16×16   | 4                                                       | pending |
-| Rock(B/M/S)                | Prop      | 16×16   | 1(each)                                                 | pending |
 | Health/water icon          | UI/Shared | 16×16   | 1                                                       | pending |
 | Start/Pause/GameOver Menu  | UI/Menu   | 640x320 | 1                                                       | pending |
 | Background(Volcano/Desert) | UI        | 640x320 | 2(One for menus, one for game)                          | pending |
+## Art to do in LD
+| Sand tile                  | Tile      | 16×16   | 1 (+2 variants)                                         | pending |
+| Sand edge/dune tiles       | Tile      | 16×16   | 4                                                       | pending |
+| Rock(B/M/S)                | Prop      | 16×16   | 1(each)                                                 | pending |
+
 
 - NPC ✅ **Completed**
 - Orb ✅ **Completed**
