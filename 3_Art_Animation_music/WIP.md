@@ -1,8 +1,10 @@
-0. How to make art/music in Aseprite/LMMS and use it in GoDot?
+## Binge watch
+1. Make animation for each stuff made in GoDot & Implement Music made.
+    Animation in GoDot: https://www.youtube.com/watch?v=XbDh2GAshBA ✅ **Completed**
+2. How to make art/music in Aseprite/LMMS and use it in GoDot?
     Pixel art in Aseprite: https://www.youtube.com/watch?v=tFsETEP01k8 & https://www.youtube.com/watch?v=hISJ2uflVCg 
     Music in LMMS: https://www.youtube.com/watch?v=2jLeuviQ7Ho
-
-Tasks order of execution:
+## Tasks order of execution:
 1. Add the remaining features from GDD (Per dawn >= 1 feature is the goal)
    - **Eagle kills snake!** ✅ **Implemented**
    - **Sliding mechanism** ✅ **Implemented**
@@ -11,7 +13,7 @@ Tasks order of execution:
    - **Died/Ghost (Look into enhanced-overview.md for more know-abouts)** ✅ **Implemented**
    - **NPCs selling pure water** ✅ **Implemented**
 2. Make a list.txt with all things to make (Just characters/Props but not UI/tiles as this will be made in LevelDesign/UIUX ) ( And music too) (Per dawn >= 1 feature is the goal)
-## Current features art!
+### Current features art!
 | Asset                      | Type      | Size    | Frames needed                                           | Status  |
 | ---------------------------| ----------| --------| --------------------------------------------------------| --------|
 | Ostrich                    | Character | 32×32   | idle 2, walk 4, jump 1, plunge 2, kick 3, hallucinate 2 | pending |
@@ -24,7 +26,7 @@ Tasks order of execution:
 | Health/water icon          | UI/Shared | 16×16   | 1                                                       | pending |
 | Start/Pause/GameOver Menu  | UI/Menu   | 640x320 | 1                                                       | pending |
 | Background(Volcano/Desert) | UI        | 640x320 | 2(One for menus, one for game)                          | pending |
-## Art to do in LD
+### Art to do in LD
 | Sand tile                  | Tile      | 16×16   | 1 (+2 variants)                                         | pending |
 | Sand edge/dune tiles       | Tile      | 16×16   | 4                                                       | pending |
 | Rock(B/M/S)                | Prop      | 16×16   | 1(each)                                                 | pending |
@@ -32,8 +34,4 @@ Tasks order of execution:
 
 - NPC ✅ **Completed**
 - Orb ✅ **Completed**
-
-- Music Pending! (Will be done after Finishing all the features & Art)
-
-3. Make animation for each stuff made in GoDot & Implement Music made.
--     Animation in GoDot: https://www.youtube.com/watch?v=XbDh2GAshBA
+3. Start Implementing music (Menu/Character...)
