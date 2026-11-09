@@ -1,0 +1,4 @@
+1. How to make art/music in Aseprite/LMMS and use it in GoDot?
+    Pixel art in Aseprite: https://www.youtube.com/watch?v=tFsETEP01k8 & https://www.youtube.com/watch?v=hISJ2uflVCg 
+    Music in LMMS: https://www.youtube.com/watch?v=2jLeuviQ7Ho
+2. How to do Level Design?
